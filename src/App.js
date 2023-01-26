@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      <h1>Hello World from AWS v1</h1>
+      <h1>Hello World from AWS ECS Cluster</h1>
     </div>
   );
 };
