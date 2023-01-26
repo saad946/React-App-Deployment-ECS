@@ -1,7 +1,3 @@
-###########
-# BUILDER #
-###########
-
 # pull official base image
 FROM node:16.5.0-alpine as builder
 
